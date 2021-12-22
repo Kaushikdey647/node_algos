@@ -1,0 +1,22 @@
+{
+  "name": "node_algos",
+  "version": "1.0.0",
+  "description": "Node Implementation of basic algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaushikdey647/node_algos.git"
+  },
+  "author": "Kaushik Dey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaushikdey647/node_algos/issues"
+  },
+  "homepage": "https://github.com/Kaushikdey647/node_algos#readme",
+  "dependencies": {
+    "mathball": "^0.4.0"
+  }
+}
